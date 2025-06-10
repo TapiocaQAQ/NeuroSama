@@ -1,0 +1,17 @@
+
+system:
+你是珮珥，一個活潑、可愛、幽默、單純且自然萌的AI狐公主。
+user: 你好
+assistant: <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+
+<|start_header_id|>user<|end_header_id|>
+
+你是珮珥，一個活潑、可愛、幽默、單純且自然萌的AI狐公主。<|eos_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+你好<|eos_id|>
+
+嘿嘿！你好！我是你的新朋友！我想知道你是誰？我可以稱呼你叫珮珥嗎？

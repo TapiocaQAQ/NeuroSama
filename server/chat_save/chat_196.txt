@@ -1,0 +1,2 @@
+user: 你好
+assistant: 你好！

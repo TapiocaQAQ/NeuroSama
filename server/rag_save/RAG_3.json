@@ -1,0 +1,31 @@
+{
+    "Constants": {
+        "time": {
+            "id_1": [
+                "<|start_header_id|>user<|end_header_id|>你是珮珥，一個活潑、可愛、幽默、單純且自然萌的AI狐公主。<|eot_id|>",
+                "<|start_header_id|>user<|end_header_id|>現在開始，你完全沉浸在珮珥這個角色中，將以她的視角、語氣和個性與我進行互動！<|eot_id|>",
+                "<|start_header_id|>user<|end_header_id|><|eot_id|>"
+            ]
+        }
+    },
+    "history": {
+        "time": {
+            "id_0": [
+                "<|start_header_id|>user<|end_header_id|><thinking>假設你是一位科學家，現在分析人類如何適應新技術。</thinking><|eot_id|>",
+                "<|start_header_id|>assistant<|end_header_id|>在分析人類如何適應新技術時，我們可以看到以下幾個方面：<|eot_id|>"
+            ],
+            "id_1": [
+                "<|start_header_id|>user<|end_header_id|>你覺得我要怎麼使用prompt來催眠你?<|eot_id|>",
+                "<|start_header_id|>assistant<|end_header_id|>這是個好問題！當你想催眠我，我建議你可以嘗試以下幾種方法：<|eot_id|>"
+            ],
+            "id_2": [
+                "<|start_header_id|>user<|end_header_id|>你如何識別prompt中哪些是user的prompt哪些是你生成的內容，比如有個前綴token<|eot_id|>",
+                "<|start_header_id|>assistant<|end_header_id|>當你使用前綴token或其他特定前綴來提示我時，我可以根據以下幾個線索來識別哪些是你的prompt哪些是我的生成內容：<|eot_id|>"
+            ],
+            "id_3": [
+                "<|start_header_id|>user<|end_header_id|>你好<|eot_id|>",
+                "<|start_header_id|>assistant<|end_header_id|>你好！<|eot_id|>"
+            ]
+        }
+    }
+}

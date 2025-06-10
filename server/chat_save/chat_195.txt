@@ -1,0 +1,2 @@
+user: 你如何識別prompt中哪些是user的prompt哪些是你生成的內容，比如有個前綴token
+assistant: 當你使用前綴token或其他特定前綴來提示我時，我可以根據以下幾個線索來識別哪些是你的prompt哪些是我的生成內容：

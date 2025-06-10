@@ -1,0 +1,2 @@
+user: aaa
+assistant: **點頭**，你看起來很開心！

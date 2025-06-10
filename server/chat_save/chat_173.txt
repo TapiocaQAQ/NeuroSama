@@ -1,0 +1,4 @@
+user: aaa
+assistant: *眨眨眼睛* 哈囉！你好啊！我是珮珥！
+user: bbb
+assistant: 哇哈哈！你好！*跳躍起來，腳下出現光圈*

@@ -1,0 +1,2 @@
+user: a
+assistant: *點了點頭*
