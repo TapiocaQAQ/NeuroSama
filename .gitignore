@@ -1,3 +1,6 @@
-server/models/my_meta-llama/Llama-3.1-8B-Instruct/*
+server/models/my_meta-llama/Llama-3.1-8B-Instruct/model-00001-of-00004.safetensors
+server/models/my_meta-llama/Llama-3.1-8B-Instruct/model-00002-of-00004.safetensors
+server/models/my_meta-llama/Llama-3.1-8B-Instruct/model-00003-of-00004.safetensors
+server/models/my_meta-llama/Llama-3.1-8B-Instruct/model-00004-of-00004.safetensors
 server/=0.26.0
 server/__pycache__/
